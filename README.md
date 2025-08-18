@@ -43,11 +43,6 @@
 <!-- Snake animation -->
 
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-
 <h3 align="left">Meus conhecimentos ~</h3>
 
 <div align="left">
