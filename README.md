@@ -8,7 +8,7 @@
 
 - 📚 Cursando Sistemas de Informação
 - 👩‍🎓 Formada em: Ensino médio técnico em Informática para Internet
-- 💻 Em busca de um emprego ou estágio
+
 
 <!-- Gráficos lado a lado com mesma largura -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
