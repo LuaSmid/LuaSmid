@@ -65,7 +65,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"/>
   <img width="8" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="25" alt="mariadb logo"/>
-  <img width="8" />            
+  <img width="8" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  height="25" alt="canva logo"/>
+  <img width="8" />         
 </div>
 
 #
