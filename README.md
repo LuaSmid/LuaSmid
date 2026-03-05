@@ -10,11 +10,11 @@
 - 👩‍🎓 Formada em: Ensino médio técnico em Informática para Internet
 
 
-<!-- Gráficos lado a lado com mesma largura -->
+<!-- Gráficos lado a lado com mesma largura 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LuaSmid&show_icons=true&theme=radical" width="450"/>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaSmid&layout=compact&theme=radical" width="340"/>
-</div>
+</div> -->
 
 <!-- GIF -->
 <div style="display: inline-block; margin-top: 10px;"><br>
