@@ -7,7 +7,7 @@
 # Oiii! Eu sou a Luana Smid
 
 - 📚 Cursando Sistemas de Informação
-- 👩‍🎓 Formada em: Ensino médio técnico em Informática para Internet
+- 👩‍🎓 Formada em: Ensino médio técnico em Informática para Internet IFSP
 
 
 <!-- Gráficos lado a lado com mesma largura 
