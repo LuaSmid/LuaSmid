@@ -4,10 +4,11 @@
   </a>
 </div>
 
-# Oiii! Eu sou a Luana Smid
+# Oie! Eu sou a Luana Smid
 
 - 📚 Cursando Sistemas de Informação
 - 👩‍🎓 Formada em: Ensino médio técnico em Informática para Internet IFSP
+- 💻 Atuo como Analista de BI pleno para a Ebravo consultoria
 
 
 <!-- Gráficos lado a lado com mesma largura 
